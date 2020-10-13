@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<mysql.version>5.1.32</mysql.version>
 		<jstl.version>1.2</jstl.version>
 		<standard.version>1.1.2</standard.version>
