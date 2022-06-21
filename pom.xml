@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<properties>
 		<junit.version>4.12</junit.version>
-		<mysql.version>5.1.32</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<jstl.version>1.2</jstl.version>
 		<standard.version>1.1.2</standard.version>
 		<servlet-api.version>2.5</servlet-api.version>
